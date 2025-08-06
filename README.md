@@ -14,7 +14,7 @@
 
 ## 🌊 Sobre mí
 Soy **Desarrollador Junior** con experiencia en **automatizaciones, desarrollo web y aplicaciones**, apasionado por aprender y mejorar cada día.  
-Creo en la filosofía de **mejorar un 1% diario** y en construir sistemas que me mantengan enfocado.
+"Creo en la disciplina y los métodos sistemáticos para alcanzar resultados.".
 
 ---
 
