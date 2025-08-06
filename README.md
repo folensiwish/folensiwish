@@ -39,18 +39,10 @@ Creo en la filosofía de **mejorar un 1% diario** y en construir sistemas que me
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertofernandez&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofernandez&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Cómo contactarme
-📧 **albertofernandez@example.com**  
-💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alberto-andres-fernandez-torres-025496222/))  
-🌐 [Portafolio]([https://tuportafolio.com](https://portafolio-production-ef76.up.railway.app/))  
+📧 **fer.albertoandres@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/alberto-andres-fernandez-torres-025496222/)
+🌐 [Portafolio](https://portafolio-production-ef76.up.railway.app/)
 
 ---
 
