@@ -1,4 +1,8 @@
 <!-- Encabezado con banner -->
+## 🧩 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TU_USERNAME?theme=dark&font=baloo_2&ext=heatmap)](https://leetcode.com/
+UveSgVhC6G)
+```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9bff,100:004aad&height=180&section=header&text=¡Hola!%20Soy%20Alberto%20Fernández&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
